@@ -1,2 +1,7 @@
 streamlit
-dotenv
+azure-ai-documentintelligence
+streamlit
+azure-storeage-blob
+python-dotenv
+azure.ai.documentintelligence
+pandas
